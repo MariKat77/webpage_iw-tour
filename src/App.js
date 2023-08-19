@@ -1,24 +1,37 @@
 import logo from './logov1.png';
 import './App.css';
+import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
+import NavBar from './components/Navbar.js'
+import Home from './pages/Home'
+import Offer from './pages/Offer.js'
+import Gallery from './pages/Gallery.js'
+import Contact from './pages/Contact.js'
+
+
+const AppLayout = () => (
+  <>
+    <NavBar />
+    <Outlet />
+  </>
+);
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route exact path="/" element={<AppLayout/>}>
+
+          <Route index element={<Home/>}/>
+          <Route exact path="/oferta" element={<Offer/>}/>
+          <Route exact path="/galeria" element={<Gallery/>}/>
+          <Route exact path="/kontakt" element={<Contact/>}/>
+
+        </Route>
+
+      </Routes>
+      
+    </BrowserRouter>
   );
 }
 
