@@ -97,6 +97,8 @@
 span {
   margin-left: 16px;
 }
+
+/*Footer CSS*/
 footer {
   position: fixed;
   left: 0;
@@ -127,3 +129,12 @@ footer {
   font-size: 0.9em;
 
 }
+
+/*Logo CSS*/
+
+.navbar img {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
