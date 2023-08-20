@@ -6,12 +6,13 @@ import Home from './pages/Home'
 import Offer from './pages/Offer.js'
 import Gallery from './pages/Gallery.js'
 import Contact from './pages/Contact.js'
-
+import Footer from './components/Footer.js'
 
 const AppLayout = () => (
   <>
     <NavBar />
     <Outlet />
+    <Footer />
   </>
 );
 
