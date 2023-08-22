@@ -19,7 +19,7 @@ function Navbar() {
           <Link to="#" className="menu-bars">
             <FaIcons.FaBars onClick={showSidebar} />
           </Link>
-          <img src="./logov1.png"/>
+          <img src="./logov1.png" alt="Logo"/>
         </div>
         <nav className={sidebar ? "navMenu active" : "navMenu"}>
           <ul className="navMenuItems" onClick={showSidebar}>
