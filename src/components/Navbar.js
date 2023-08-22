@@ -11,12 +11,11 @@ function Navbar() {
   const [sidebar, setSidebar] = useState(false);
 
   const showSidebar = () => setSidebar(!sidebar);
-
   return (
     <>
       <IconContext.Provider value={{ color: "undefined" }}>
         <div className="navbar">
-          <Link to="#" className="menu-bars">
+          <Link to="#" className={sidebar ? "menu-bars active" : "menu-bars"} >
             <FaIcons.FaBars onClick={showSidebar} />
           </Link>
           <img src="./logov1.png" alt="Logo"/>
