@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Slab&family=Roboto:wght@500&display=swap');
+h1 {
+    margin: 2vh 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+
+
+
+.containerStyles {
+    width: 1100px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.containerText {
+    margin: 15vh 20vw;
+    font-size: 2vw;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.containerText ul {
+    margin-left: 50px;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+
+@media screen and (max-width: 900px) {
+    .containerStyles  {
+      width: 90vw;
+      height: 40vh;
+      
+    }
+}
