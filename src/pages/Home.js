@@ -26,11 +26,9 @@ const Home = () => {
           <li>remonty silników samochodowych</li>
         </ul>
           <Link to="/oferta">Czytaj więcej</Link>
-          
-        
         </div>
         
-        {/*<img src="./pexels-mike-bird-190574.jpg" alt='Silnik'/>*/}
+        <img src="./pexels-mike-bird-190574.jpg" alt='Silnik'/>
       
         </div>
       </>
