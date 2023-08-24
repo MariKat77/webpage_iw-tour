@@ -83,7 +83,12 @@ const ImageSlider = ({ slides }) => {
     display: "flex",
     justifyContent: "center",
     fontSize: "20px",
-    
+    margin: "auto",
+    padding: "10px",
+    borderRadius: "10px",
+    backgroundColor: "grey",
+    width: "50%",
+    textAlign: "center"
   }
 
   return (
