@@ -20,7 +20,7 @@ export const slides = [
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0019.jpg", title: "Złożone BMW po remoncie generalnym silnika"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0028.jpg", title: "Naprawa kultowego „maluszka”"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0031.jpg", title: "Naprawa łożysk w manulanej skrzyni biegów"},
-    { url: "./ZdjęciaProjekty/IMG-20230823-WA0045.jpg", title: "Remont generalny silnika 3.6 l V6 z Cadilac'a jednego z klientów, silnik przed remontem palił 1l oleju na 100km"},
+    { url: "./ZdjęciaProjekty/IMG-20230823-WA0045.jpg", title: "Remont generalny silnika 3.6 l V6 z Cadilac'a jednego z klientów, silnik przed remontem palił 5l oleju na 1000km"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0046.jpg", title: "Silnik po remoncie palił już tylko 100ml na 100km co jest jego normalnym zużyciem zgodnym z normą"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0053.jpg", title: "Gotowy Cadilac z silnikiem po remoncie"},
   ];
