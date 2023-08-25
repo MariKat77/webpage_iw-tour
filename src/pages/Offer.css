@@ -26,7 +26,7 @@
 
 .containerOffer .animationOffer {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     position: relative;
     top: 40vh;
     align-content: center;

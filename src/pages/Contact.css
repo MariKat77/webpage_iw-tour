@@ -1,0 +1,85 @@
+.contactContainer h1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    top: 10vh;
+
+}
+
+.contactContainer .containerWorkHours h2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    top: 10vh;
+    animation: animationOfContainerContact 2s 1;
+}
+
+.contactContainer .containerWorkHours p{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    top: 10vh;
+    background-color: rgb(39, 140, 228);
+    margin: auto;
+    width: 40%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.8vh;
+    animation: animationOfContainerContact 2s 1;
+}
+
+.contactContainer .containerAdress p {
+
+    position: relative;
+    margin: auto;
+    top: 10vh;
+    background-color: rgb(39, 140, 228);
+    width: 40%;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1.8vh;
+    animation: animationOfContainerContact 2s 1;
+}
+
+.contactContainer .containerAdress h2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    top: 10vh;
+    animation: animationOfContainerContact 2s 1;
+}
+
+@keyframes animationOfContainerContact {
+    from {
+        opacity: 0%;
+        left: 50px;
+    }
+    to {
+        opacity: 100%;
+        left: 0;
+    }
+}
+
+.contactContainer .containerNavigation {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 40vh;
+}
+
+.contactContainer .containerNavigation iframe {
+    width: 80vw;
+    height: 70vh;
+}
+
