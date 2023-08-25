@@ -8,7 +8,7 @@ const Offer = () => {
       <div className="containerOffer">
       <h1>Oferta</h1>
       <div className="animationOffer">
-        W naszym zakładzie oferujemy wiele róznych usług takich jak:
+        W naszym zakładzie oferujemy wiele różnych usług takich jak:
         <ul>
           <li>serwis samochodów osobowych oraz dostawczych (wymiany płynów eksploatacyjnych oraz naprawy eksploatacyjne)</li>
           <li>remonty generalne silników</li>
