@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/webpage_iw-tour/static/css/main.45ec5106.css",
+    "main.js": "/webpage_iw-tour/static/js/main.d254e1f8.js",
+    "static/media/image-002.png": "/webpage_iw-tour/static/media/image-002.4181827e2fe83e2678f7.png",
+    "index.html": "/webpage_iw-tour/index.html",
+    "main.45ec5106.css.map": "/webpage_iw-tour/static/css/main.45ec5106.css.map",
+    "main.d254e1f8.js.map": "/webpage_iw-tour/static/js/main.d254e1f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ec5106.css",
+    "static/js/main.d254e1f8.js"
+  ]
+}
