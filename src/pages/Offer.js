@@ -10,8 +10,9 @@ const Offer = () => {
       <div className="animationOffer">
         W naszym zakładzie oferujemy wiele różnych usług takich jak:
         <ul>
-          <li>serwis samochodów osobowych oraz dostawczych (wymiany płynów eksploatacyjnych oraz naprawy eksploatacyjne)</li>
+          <li>serwis samochodów osobowych (wymiany płynów eksploatacyjnych oraz naprawy eksploatacyjne)</li>
           <li>remonty generalne silników</li>
+          <li>naprawa oraz remonty generalne silników samochodów retro (Polonez, Fiat 126p, Fiat 125p)</li>
           <li>serwis głowic silnikowych (docieranie zaworów, wymiana uszczelniaczy zaworowych)</li>
           <li>wymiana oraz montaż opon samochodowych wraz z ich wyważeniem</li>
           <li>spawanie oraz prostowanie felg samochodowych</li>

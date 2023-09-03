@@ -9,7 +9,7 @@ import { useInView } from 'react-intersection-observer'
 const Gallery = () => {
 
   
-    const { ref, inView, entry } = useInView({threshold: 0,})
+    const { ref, inView, entry } = useInView({threshold: 0})
 
     return(
     <>
@@ -42,8 +42,7 @@ const Gallery = () => {
       Innymi bardzo ciekawymi projektami były:
       <ul>
         <li>naprawa skrzyni biegów CVT, która jest bardzo nietypową skrzynią jeśli chodzi o samochody osobowe</li>
-        <li></li>
-        <li></li>
+        <li>remonty generalne silników samochodów retro takich jak: Polonez, Fiat 126p, Fiat 125p itp.</li>
       </ul>
     </div>
     </div>

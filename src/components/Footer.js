@@ -20,7 +20,7 @@ function Footer() {
                         <p>
                             ul. Główna 48,<br/> 
                             42-620, Nakło Śląskie<br/>
-                            Tel: +48 000 000 000
+                            Tel: +48 508 369 998
                         </p>
                         <Link to="https://goo.gl/maps/7cFbPWgGRpiQd92m6" className="googleMapsLink">
                             <PiIcons.PiMapPinLineBold />

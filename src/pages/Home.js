@@ -24,6 +24,7 @@ const Home = () => {
           <li>chiptuning</li>
           <li>dynamiczna wymiana oleju w skrzyniach automatycznych</li>
           <li>remonty silników samochodowych</li>
+          <li>naprawa oraz remonty generalne silników samochodów retro (Polonez, Fiat 126p, Fiat 125p)</li>
         </ul>
           <Link to="/oferta">Czytaj więcej</Link>
         </div>
