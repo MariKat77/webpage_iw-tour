@@ -51,14 +51,14 @@
   top: 0;
   left: -100%;
   transition: 850ms;
-  z-index: 2;
+  z-index: 3;
 }
 
 .navMenu.active {
   left: 0;
   transition: 450ms;
   opacity: 95%;
-  z-index: 2;
+  z-index: 3;
 }
 
 .navText {
