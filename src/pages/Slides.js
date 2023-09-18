@@ -19,7 +19,7 @@ export const slides = [
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0006.jpg", title: "Wyciąganie silnika R6 3.0 z BMW serii 5 w celu remontu generalnego"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0007.jpg", title: "Blok silnika R6 3.0 wyciągnięty z BMW serii 5"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0016.jpg", title: "Wstępnie zamocowany blok silnika R6 z BMW 5"},
-    { url: "./ZdjęciaProjekty/IMG-20230823-WA0017.jpg", title: "Montaż sprężyn zaworowych po wykonanej regenracji głowicy z silnika z BMW 5"},
+    { url: "./ZdjęciaProjekty/IMG-20230823-WA0017.jpg", title: "Montaż sprężyn zaworowych po wykonanej regeneracji głowicy z silnika z BMW 5"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0018.jpg", title: "Inne zdjęcie z montażu sprężyn zaworowych"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0019.jpg", title: "Złożone BMW po remoncie generalnym silnika"},
     { url: "./ZdjęciaProjekty/IMG-20230823-WA0028.jpg", title: "Naprawa kultowego „maluszka”"},
