@@ -87,7 +87,7 @@ const ImageSlider = ({ slides }) => {
     padding: "10px",
     borderRadius: "10px",
     backgroundColor: "grey",
-    width: "50%",
+    width: "55%",
     textAlign: "center"
   }
 
