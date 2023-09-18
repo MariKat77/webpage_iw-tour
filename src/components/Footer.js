@@ -30,7 +30,7 @@ function Footer() {
                         <h3>Godziny otwarcia</h3>
                         <p>
                             Poniedziałek - Piątek: 8:00 - 17:00<br/> 
-                            Sobota: 8:00 - 14:00<br/>
+                            Sobota: 8:00 - 13:00<br/>
                             Niedziela: Nieczynne
                         </p>
                     </div>

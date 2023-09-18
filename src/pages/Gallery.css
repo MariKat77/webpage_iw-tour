@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Slab&family=Roboto:wght@500&display=swap');
 h2 {
-    margin: 5vh auto;
+    margin: 15vh auto 5vh auto;
     display: flex;
     justify-content: center;
     position: relative;

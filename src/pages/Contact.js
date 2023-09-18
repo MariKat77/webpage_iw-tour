@@ -13,7 +13,7 @@ const Contact = () => {
             <h2>Godziny otwarcia</h2>
             <p>
                 Poniedziałek - Piątek: 8:00 - 17:00<br/> 
-                Sobota: 8:00 - 14:00<br/>
+                Sobota: 8:00 - 13:00<br/>
                 Niedziela: Nieczynne
             </p>
           </div>

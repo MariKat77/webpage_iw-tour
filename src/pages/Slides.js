@@ -8,7 +8,6 @@ export const slides = [
     { url: "./Zdjęcia/IMG-20230821-WA0007.jpg", title: "Widok stanowisk na 2 hali" },
     { url: "./Zdjęcia/IMG-20230821-WA0008.jpg", title: "Stanowisko montażu, wyważania kół oraz naprawy samochodów" },
     { url: "./Zdjęcia/IMG-20230821-WA0009.jpg", title: "Widok stanowisk na 1 hali" },
-    { url: "./Zdjęcia/IMG-20230826-WA0001.jpg", title: "Maszyna do serwisu klimatyzacji" },
     { url: "./Zdjęcia/IMG-20230826-WA0003.jpg", title: "Stanowisko do prostowania oraz naprawy felg" },
     { url: "./Zdjęcia/IMG-20230826-WA0004.jpg", title: "Stanowisko do prostowania oraz naprawy felg" },
 
