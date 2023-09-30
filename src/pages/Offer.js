@@ -13,7 +13,7 @@ const Offer = () => {
           <li>serwis samochodów osobowych (wymiany płynów eksploatacyjnych oraz naprawy eksploatacyjne)</li>
           <li>remonty generalne silników</li>
           <li>naprawa oraz remonty generalne silników samochodów retro (Polonez, Fiat 126p, Fiat 125p)</li>
-          <li>serwis głowic silnikowych (docieranie zaworów, wymiana uszczelniaczy zaworowych)</li>
+          <li>serwis głowic silnikowych i kolektorów ssących</li>
           <li>wymiana oraz montaż opon samochodowych wraz z ich wyważeniem</li>
           <li>spawanie oraz prostowanie felg samochodowych</li>
           <li>chiptuning</li>
