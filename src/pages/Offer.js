@@ -21,28 +21,32 @@ const Offer = () => {
               naprawa oraz remonty generalne silników samochodów retro (Polonez,
               Fiat 126p, Fiat 125p)
             </li>
-            <li>serwis głowic silnikowych i kolektorów ssących</li>
+            <li>serwis głowic silnikowych i kolektorów ssących (mycie podzespołów w wannie ultradźwiękowej)</li>
             <li>chiptuning</li>
             <li>serwis klimatyzacji</li>
             <li>naprawa manualnych skrzyń biegów</li>
             <li>dynamiczna wymiana oleju w automatycznych skrzyniach biegów</li>
+            <ol>
+              <li>skrzynie SHP-Audi i BMW</li>
+              <li>9GTronic Mercedes</li>
+              <li>DSG i S-Tronic (OB5 i OCK) grupy VW Audi</li>
+            </ol>
             
           </ul>
 
           </div>
           <div className="animationTiresOffer">
-          <h2>Wulkanizacja oraz sprzedaż opon</h2>
+          <h2>Wulkanizacja, felgi oraz sprzedaż opon</h2>
             <ul>
             <li>
-              wymiana oraz montaż opon samochodowych wraz z ich wyważeniem
+              sprzedaż oraz montaż opon samochodowych wraz z ich wyważeniem
             </li>
-            <li>spawanie oraz prostowanie felg samochodowych</li>
-            <li>
-              prostowanie felg aluminiowych oraz stalowych
-            </li>
+            <li>spawanie oraz prostowanie felg samochodowych (aluminiowych i stalowych)</li>
             <li>polerowanie felg i wytaczanie</li>
             <li>malowanie proszkowe felg aluminiowych i stalowych</li>
             <li>regeneracja felg samochodowych</li>
+            <li>programowanie i montaż czujników TPMS (wszystkie marki)</li>
+            <li>pełna gama akcesorii do felg (naklejki, delkielki, śruby, zawory i pierścienie centrujące do wszystkich rodzajów felg)</li>
           </ul>
           </div>
           
