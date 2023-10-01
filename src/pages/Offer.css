@@ -121,7 +121,7 @@
 
 @media screen and (max-width: 1000px) {
     .containerOffer .animationOffer {
-        height: 250vh;
+        height: 300vh;
     }
 
     .containerOffer .animationOffer .animationMechanicOffer h2 {
@@ -133,7 +133,7 @@
     }
 
     .containerOffer .animationOffer .animationTiresOffer {
-        top: 150vh;
+        top: 168vh;
         height: fit-content;
     }
 }
