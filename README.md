@@ -23,4 +23,4 @@ $ npm install
 $ npm start
 ```
 ## Live deployment
-[Live deployment link to website](https://falsest-matters.000webhostapp.com/)
+[Live deployment link to website](https://iw-tour.pl/)
